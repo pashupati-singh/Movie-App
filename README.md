@@ -28,9 +28,13 @@ API Endpoints
 
 Authentication
 POST /users/register: Register a new user.
+
 POST /users/login: Log in and receive an authentication token.
 
 Movie Management
 POST /movies/add: Add a new movie (requires admin privileges).
+
 PATCH /movies/update/:id: Update movie details by ID (requires admin privileges).
+
+
 GET /movies: Get a list of all movies.
