@@ -38,3 +38,10 @@ PATCH /movies/update/:id: Update movie details by ID (requires admin privileges)
 
 
 GET /movies: Get a list of all movies.
+
+#Important 
+
+ Adding or updating movies can only be done by administrators. Therefore, users need to login with administrator credentials to perform these actions."
+ email:"admin@gmail.com",
+ password:"123456"
+
