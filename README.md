@@ -1,9 +1,11 @@
 # Movie Management Server
 
-# deploy links
+# Deploy Links
 
-https://movie-6cgo.onrender.com/ : server-side
-https://rainbow-faloodeh-3eb3e2.netlify.app/ : client-side
+https://movie-6cgo.onrender.com/ : server-side.
+
+https://rainbow-faloodeh-3eb3e2.netlify.app/ : client-side.
+
 
 ## Overview
 
